@@ -14,7 +14,7 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 # Build
 
 ```
-docker build -t <seu-user>/fullcycle .
+docker build -t angelomfonseca/fullcycle .
 ```
 
 # Pull
